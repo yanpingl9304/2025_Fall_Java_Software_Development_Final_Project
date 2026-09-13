@@ -7,8 +7,8 @@ import javax.security.auth.login.LoginException;
 
 public class Main {
 
-    private static final String TOKEN = "MTI0NzEwMjI5NDU5MjMyNzcyMA.G490HJ.              4l0JZ3dNVqkZdi4QPIdS1ldW27Gt5d_KErY1Bs".replaceAll(" ","");
-    private static final String API_KEY = "214fdac5000b4882bd052918250706";
+    private static final String TOKEN = "YOUR_DISCORD_BOT_API_KEY";
+    private static final String API_KEY = "YOUR_WEATHER_API_KEY";
 
     public static String getApiKey(){
         return API_KEY;
