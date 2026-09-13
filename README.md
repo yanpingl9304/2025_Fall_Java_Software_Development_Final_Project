@@ -1,4 +1,4 @@
-# 🤖 ChronoCast: Discord Life Assistant Bot
+# 🤖 Discord Life Assistant Bot
 
 > A lightweight, feature-rich Discord bot designed to streamline your daily routines with real-time weather forecasting and Google Calendar integration.
 
@@ -6,7 +6,7 @@
 
 ## 🌟 Overview
 
-**ChronoCast** simplifies personal workflow management directly from Discord. Rather than switching between browser tabs or applications, users can interact with real-time weather updates and schedule personal Google Calendar events seamlessly using interactive commands.
+Simplifying personal workflow management directly from Discord. Rather than switching between browser tabs or applications, users can interact with real-time weather updates and schedule personal Google Calendar events seamlessly using interactive commands.
 
 ---
 
