@@ -34,21 +34,3 @@ Simplifying personal workflow management directly from Discord. Rather than swit
 * **Database & Persistence:** SQL Database (MySQL) via JDBC
 * **Build System:** Apache Maven
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-* **JDK 17** or higher
-* **Apache Maven 3.8+**
-* **MySQL / MariaDB** database instance
-* **Discord Bot Token** (from [Discord Developer Portal](https://discord.com/developers/applications))
-* **Google Cloud Project** credentials (`credentials.json`) with Calendar API enabled
-
-### Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yanpingl9304/2025_Fall_Java_Software_Development_Final_Project.git](https://github.com/yanpingl9304/2025_Fall_Java_Software_Development_Final_Project.git)
-   cd 2025_Fall_Java_Software_Development_Final_Project
